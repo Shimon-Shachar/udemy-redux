@@ -1,0 +1,12 @@
+Auth
+	email : emailstate
+	password : passwordstate
+	login button : loggedInstate 
+		display logout
+		pass data
+	
+Header
+ 
+	logout button : only if logged in
+	
+Userporfile	
